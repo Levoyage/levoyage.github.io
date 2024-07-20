@@ -1,0 +1,71 @@
+baseURL: /
+languageCode: en-us
+title: Aria's Blog
+theme: PaperMod
+
+enableInlineShortcodes: true #允许内联短码
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+params:
+  ShowSearchButton: true
+  profileMode:
+    enabled: true
+    title: "AriaVerse"  # 可选，默认会使用网站标题
+    subtitle: "Welcome to my blog"
+    imageUrl: "https://i.ibb.co/K05gfy7/image.png"  # 可选
+    imageTitle: "My Profile Picture"  # 可选
+    imageWidth: 120  # 自定义大小
+    imageHeight: 120  # 自定义大小
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: CV
+        url: "https://drive.google.com/file/d/18Ro-2kQHmiwpsRFtvZQ23zvNlg0rMjjU/view?usp=sharing"
+    fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Levoyage"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/chen-kefan/"
+    - name: "email"
+      url: "mailto:ariachen1014@gmail.com"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5  # 确保这个值小于搜索按钮的 weight
+      pre: <i class="fas fa-home fa-fw" aria-hidden="true"></i>
+    - identifier: search
+      name: Search 
+      url: /search/
+      weight: 10
+      pre: <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
+      pre: <i class="fas fa-user fa-fw" aria-hidden="true"></i>
+    - identifier: album
+      name: Album
+      url: /album/
+      weight: 20
+      pre: <i class="fas fa-images fa-fw" aria-hidden="true"></i>

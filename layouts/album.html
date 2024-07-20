@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" href="{{ " favicon.ico" | relURL }}" type="image/x-icon">
+    <link rel="icon" href="{{ " favicon-16x16.png" | relURL }}" sizes="16x16" type="image/png">
+    <link rel="icon" href="{{ " favicon-32x32.png" | relURL }}" sizes="32x32" type="image/png">
+</head>
+
+<body>
+    <!-- Header -->
+    {{ partial "header.html" . }}
+
+    <!-- Main Content -->
+    <main>
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.description }}</p>
+
+        <div>
+            {{ .Content }}
+        </div>
+    </main>
+
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+</body>
+
+</html>

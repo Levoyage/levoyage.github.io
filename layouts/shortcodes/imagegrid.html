@@ -1,0 +1,29 @@
+<style>
+    .image-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .image-grid-item {
+        flex: 1;
+        min-width: calc(33.333% - 10px);
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .image-grid-item img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+</style>
+
+<div class="image-grid">
+    {{ range .Params.images }}
+    <div class="image-grid-item">
+        <img src="{{ .src }}" alt="{{ .alt }}">
+        <p>{{ .caption }}</p>
+    </div>
+    {{ end }}
+</div>
