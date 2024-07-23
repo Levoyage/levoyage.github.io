@@ -1,7 +1,7 @@
 ---
 title: "My Island 1.0"
 date: 2024-07-23T17:46:29+01:00
-draft: true
+draft: false
 author: ["Author1", "Author2"]
 description: "Record Month-long island construction in Animal Crossing"
 tags: ["tag1", "tag2"]
