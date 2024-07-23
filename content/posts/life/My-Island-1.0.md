@@ -28,7 +28,7 @@ editPost:
 Use DA code in the game: DA-3444-7211-0416
 
 ### Island Overview
-👉**Partly Inspired, Partly Original**: Images and DA code are for island building reference only and cannot be reposted or used commercially  
+👉**Partly Inspired, Partly Original**: Images and DA code are for island building reference only and cannot be reposted or used commercially.  
 👉**Color Scheme & Style**: Warm tones with a European/Western countryside feel, mixed with small areas of Japanese and forest themes.  
 👉**Design Guidelines**: Use system tiles as much as possible. Avoid using simple wall panels for fake scenery.  
 👉**Connectivity**: Most areas are connected; if you can't find your way, try adjusting your perspective.  
