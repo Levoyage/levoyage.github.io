@@ -6,6 +6,14 @@
     <description>Recent content in 💻Tech on Aria&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2024 15:35:09 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Build a Employee Management System</title>
+      <link>http://localhost:1313/posts/tech/employee-management-system/</link>
+      <pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/employee-management-system/</guid>
+      <description>A full-stack project using Springboot and React, deployed on AWS</description>
+    </item>
   </channel>
 </rss>

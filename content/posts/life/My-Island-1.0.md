@@ -1,12 +1,10 @@
 ---
 title: "My Island 1.0"
-date: 2024-07-23T17:46:29+01:00
+date: 2022-07-23T17:46:29+01:00
 draft: false
 author: ["Aria"]
 description: "Record Month-long island construction in Animal Crossing"
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-series: ["series1"]
+tags: ["Game", "Swicth"]
 cover:
   image: "https://i.ibb.co/hgNGT56/QQ-20220714225112.jpg"
   alt: "Map of my island"
@@ -15,10 +13,6 @@ cover:
 ShowToc: true
 TocOpen: false
 ShowBreadCrumbs: true
-editPost:
-  URL: "https://github.com/Levoyage/levoyage.github.io/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
 
 

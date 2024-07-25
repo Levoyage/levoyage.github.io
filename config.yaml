@@ -16,6 +16,9 @@ markup:
       unsafe: true  # 允许不安全的HTML渲染
 
 params:
+  ShowWordCount: true
+  ShowReadingTime: true
+  ShowLastMod: true
   ShowSearchButton: true
   profileMode:
     enabled: true
