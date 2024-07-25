@@ -1,7 +1,7 @@
 ---
 title: "Data visualization for the evolution of Wikipedia articles(Wait for updating…)"
 date: 2024-07-25T17:09:04+01:00
-draft: true
+draft: false
 author: 
   - "Aria"
 description: "A web application designed to visualize time-series data related to Wikipedia's climate change articles"
