@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tag2 on Aria's Blog</title><link>https://levoyage.github.io/tags/tag2/</link><description>Recent content in Tag2 on Aria's Blog</description><generator>Hugo -- 0.129.0</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 17:46:29 +0100</lastBuildDate><atom:link href="https://levoyage.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml"/><item><title>My Island 1.0</title><link>https://levoyage.github.io/posts/life/my-island-1.0/</link><pubDate>Tue, 23 Jul 2024 17:46:29 +0100</pubDate><guid>https://levoyage.github.io/posts/life/my-island-1.0/</guid><description>Record Month-long island construction in Animal Crossing</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tag2 on Aria&#39;s Blog</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on Aria&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 15:35:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employee Management System</title>
+      <link>http://localhost:1313/posts/tech/employee-management-system/</link>
+      <pubDate>Thu, 25 Jul 2024 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/employee-management-system/</guid>
+      <description>A full-stack project using Springboot and React finishing by myself</description>
+    </item>
+    <item>
+      <title>My Island 1.0</title>
+      <link>http://localhost:1313/posts/life/my-island-1.0/</link>
+      <pubDate>Tue, 23 Jul 2024 17:46:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/life/my-island-1.0/</guid>
+      <description>Record Month-long island construction in Animal Crossing</description>
+    </item>
+  </channel>
+</rss>
