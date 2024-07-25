@@ -23,7 +23,7 @@ ShowBreadCrumbs: true
 ## URL & Frontend Preview
 
 <!-- 链接 -->
-[employees-management-system](http://employees-management-system.s3-website-us-east-1.amazonaws.com/)
+http://employees-management-system.s3-website-us-east-1.amazonaws.com/
 
 {{< galleries >}}
 {{< gallery src="https://i.ibb.co/0tXzFB4/List-of-Employee.png" title="List of Employee" >}}
@@ -107,9 +107,6 @@ To build the Employee Management System, I used the following technologies and t
 
 
 
-## Conclusion
-
-Developing the Employee Management System using Spring Boot and React JS has been an enriching experience. The combination of these powerful technologies enables the creation of robust, scalable, and secure applications. This project has provided me with a deeper understanding of full-stack development, and the deployment on AWS has added a valuable dimension to my skills. I look forward to enhancing this project further and exploring new opportunities in full-stack development.  
   
     
     
