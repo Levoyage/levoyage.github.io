@@ -54,7 +54,7 @@ func main() {
 ```
 
 <!-- 图片示例 -->
-![示例图片](https://via.placeholder.com/150)
+<a href="https://example.com" target="_blank">点击这里打开新标签页</a>
 
 <!-- 引用 -->
 > 这是一个引用示例。

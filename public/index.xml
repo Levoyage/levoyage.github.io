@@ -6,15 +6,8 @@
     <description>Recent content on Aria&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 17:09:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Data visualization for the evolution of Wikipedia articles</title>
-      <link>http://localhost:1313/posts/tech/data-visualization/</link>
-      <pubDate>Thu, 25 Jul 2024 17:09:04 +0100</pubDate>
-      <guid>http://localhost:1313/posts/tech/data-visualization/</guid>
-      <description>A web application designed to visualize time-series data related to Wikipedia&amp;#39;s climate change articles</description>
-    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
@@ -28,6 +21,13 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/album/</guid>
       <description>Welcome to my album! Here are some of my favorite snapshots taken in my journey.🏃🧳 &lt;!DOCTYPE html&gt; Research Base of Giant Panda Breeding, Chengdu, China, Apr 2016 Pompidou Centre, Paris, France, Jan 2016 Fontainebleau Palace, Fontainebleau, France, Jan 2015 Sagrada Família, Barcelona, Spain, Oct 2015 Humble Administrator&amp;#39;s Garden, Suzhou, China, Nov 2014 Xixi National</description>
+    </item>
+    <item>
+      <title>Data visualization for the evolution of Wikipedia articles</title>
+      <link>http://localhost:1313/posts/tech/data-visualization/</link>
+      <pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/data-visualization/</guid>
+      <description>A web application designed to visualize time-series data related to Wikipedia&amp;#39;s climate change articles</description>
     </item>
     <item>
       <title>How to Build a Employee Management System</title>
