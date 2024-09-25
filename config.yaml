@@ -32,6 +32,8 @@ params:
         url: posts/tech
       - name: 🏖️ Life
         url: posts/life
+      - name: 📝 CV
+        url: "https://drive.google.com/file/d/1FoSEdD8948aSZd0sO7FUWTVZ24ozl3UF/view?usp=sharing"
     fuseOpts:
       isCaseSensitive: false
       shouldSort: true
