@@ -35,7 +35,7 @@ Use DA code in the game: DA-3444-7211-0416
 
 ### Island Gallery
 {{< galleries >}}
-{{< gallery src="https://i.ibb.co/YPg7HYC/IMG-4901.jpg" title="Island reshaping in one month" >}}
+{{< gallery src="https://i.imgur.com/AjcDsnF.jpeg" title="Island reshaping in one month" >}}
 {{< gallery src="https://i.ibb.co/DgsTXB7/IMG-4950.jpg" title="The road from the airport to the square" >}}
 {{< gallery src="https://i.ibb.co/6Ry658w/IMG-4951.jpg" title="My home, the hill behind Resident Services, and shops" >}}
 {{< gallery src="https://i.ibb.co/pyVtY7r/IMG-4952.jpg" title="The museum and surroundings" >}}
