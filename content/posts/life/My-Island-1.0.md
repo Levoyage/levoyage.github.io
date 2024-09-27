@@ -36,15 +36,15 @@ Use DA code in the game: DA-3444-7211-0416
 ### Island Gallery
 {{< galleries >}}
 {{< gallery src="https://i.imgur.com/AjcDsnF.jpeg" title="Island reshaping in one month" >}}
-{{< gallery src="https://i.ibb.co/DgsTXB7/IMG-4950.jpg" title="The road from the airport to the square" >}}
-{{< gallery src="https://i.ibb.co/6Ry658w/IMG-4951.jpg" title="My home, the hill behind Resident Services, and shops" >}}
-{{< gallery src="https://i.ibb.co/pyVtY7r/IMG-4952.jpg" title="The museum and surroundings" >}}
-{{< gallery src="https://i.ibb.co/QmFWvRb/IMG-4953.jpg" title="Forest theme park" >}}
-{{< gallery src="https://i.ibb.co/WpNKJQy/IMG-4954.jpg" title="Orchard and campsite" >}}
-{{< gallery src="https://i.ibb.co/h1Vmv9b/IMG-4955.jpg" title="Japanese hot spring hotel" >}}
-{{< gallery src="https://i.ibb.co/FBdks31/IMG-4958.jpg" title="Beach: Drawing spot, reading Nook and outdoor cinema" >}}
-{{< gallery src="https://i.ibb.co/Gx5kKWG/IMG-4960.jpg" title="Beach: Surfboard rental, Nook's tombstone, seafood stall, pier and outdoor two-story Café" >}}
-{{< gallery src="https://i.ibb.co/cwb9y2p/IMG-4961.jpg" title="Islander living area" >}}
+{{< gallery src="https://i.imgur.com/X4ekAGr.jpeg" title="The road from the airport to the square" >}}
+{{< gallery src="https://i.imgur.com/Kko7S2k.jpeg" title="My home, the hill behind Resident Services, and shops" >}}
+{{< gallery src="https://i.imgur.com/5riCfzx.jpeg" title="The museum and surroundings" >}}
+{{< gallery src="https://i.imgur.com/1qTBLcC.jpeg" title="Forest theme park" >}}
+{{< gallery src="https://i.imgur.com/FhtBKuK.jpeg" title="Orchard and campsite" >}}
+{{< gallery src="https://i.imgur.com/VyLs0Cw.jpeg" title="Japanese hot spring hotel" >}}
+{{< gallery src="https://i.imgur.com/3u23ccO.jpeg" title="Beach: Drawing spot, reading Nook and outdoor cinema" >}}
+{{< gallery src="https://i.imgur.com/slePB9L.jpeg" title="Beach: Surfboard rental, Nook's tombstone, seafood stall, pier and outdoor two-story Café" >}}
+{{< gallery src="https://i.imgur.com/TudoRki.jpeg" title="Islander living area" >}}
 {{< /galleries >}}
 
 
