@@ -41,7 +41,6 @@ params:
       minMatchCharLength: 0
       keys: ["title", "permalink", "summary", "content"]
 
-params:
   social:
     github: "https://github.com/youraccount"
     linkedin: "https://linkedin.com/in/youraccount"
