@@ -41,10 +41,10 @@ params:
       minMatchCharLength: 0
       keys: ["title", "permalink", "summary", "content"]
 
-  social:
-    github: "https://github.com/youraccount"
-    linkedin: "https://linkedin.com/in/youraccount"
-    email: "mailto:ariachen1014@gmail.com"
+    social:
+      github: "https://github.com/youraccount"
+      linkedin: "https://linkedin.com/in/youraccount"
+      email: "mailto:ariachen1014@gmail.com"
 
 outputs:
   home:
