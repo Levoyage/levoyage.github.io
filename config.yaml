@@ -32,19 +32,19 @@ params:
         url: posts/tech
       - name: 🏖️ Life
         url: posts/life
-  social:
-    - identifier: github
-      name: GitHub
-      url: "https://github.com/youraccount"
-      icon: <i class="fab fa-github" aria-hidden="true"></i>
-    - identifier: linkedin
-      name: LinkedIn
-      url: "https://linkedin.com/in/youraccount"
-      icon: <i class="fab fa-linkedin" aria-hidden="true"></i>
-    - identifier: email
-      name: Email
-      url: "mailto:ariachen1014@gmail.com"
-      icon: <i class="fas fa-envelope" aria-hidden="true"></i>
+    social:
+      - identifier: github
+        name: GitHub
+        url: "https://github.com/youraccount"
+        icon: <i class="fab fa-github" aria-hidden="true"></i>
+      - identifier: linkedin
+        name: LinkedIn
+        url: "https://linkedin.com/in/youraccount"
+        icon: <i class="fab fa-linkedin" aria-hidden="true"></i>
+      - identifier: email
+        name: Email
+        url: "mailto:ariachen1014@gmail.com"
+        icon: <i class="fas fa-envelope" aria-hidden="true"></i>
 
   fuseOpts:
     isCaseSensitive: false
