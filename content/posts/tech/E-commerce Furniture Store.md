@@ -24,7 +24,8 @@ ShowBreadCrumbs: true
 ## URL for Preview & Component Diagram
 
 <!-- 链接 -->
-https://comfy-sloth-store-testing.netlify.app/
+Preview Link: https://comfy-sloth-store-testing.netlify.app/
+Component Diagram:
 {{< galleries >}}
 {{< gallery src="https://i.imgur.com/Dsme8OP.png" title="Component Diagram" >}}
 {{< /galleries >}}
