@@ -1,2 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Aria's Blog</title><link>https://levoyage.github.io/</link><description>Recent content on Aria's Blog</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 17:00:09 +0100</lastBuildDate><atom:link href="https://levoyage.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Building iTravel: A Personalized Travel Recommendation Platform</title><link>https://levoyage.github.io/posts/tech/building-itravel---a-personalized-travel-recommendation-platform/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/posts/tech/building-itravel---a-personalized-travel-recommendation-platform/</guid><description>A collaborative, full-stack travel recommendation project with AI integration, deployed on AWS</description></item><item><title>About Me</title><link>https://levoyage.github.io/about/</link><pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate><guid>https://levoyage.github.io/about/</guid><description>Hello! I&amp;rsquo;m Aria, and this is my personal blog.😎 My Background Sept 2023 ‑ Expected May 2025 M.S. in Software Design and Development丨University of Galway Jan 2018 ‑ Nov 2022 English Teacher丨The New Oriental</description></item><item><title>Album</title><link>https://levoyage.github.io/album/</link><pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate><guid>https://levoyage.github.io/album/</guid><description>Welcome to my album! Here are some of my favorite snapshots taken in my journey.🏃🧳 &lt;!DOCTYPE html> Research Base of Giant Panda Breeding, Chengdu, China, Apr 2016 Pompidou Centre, Paris, France, Jan 2016 Fontainebleau Palace, Fontainebleau, France, Jan 2015 Sagrada Família, Barcelona, Spain, Oct 2015 Humble Administrator&amp;#39;s Garden, Suzhou, China, Nov 2014 Xixi National</description></item><item><title>Data visualization for the evolution of Wikipedia articles</title><link>https://levoyage.github.io/posts/tech/data-visualization/</link><pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate><guid>https://levoyage.github.io/posts/tech/data-visualization/</guid><description>A web application designed to visualize time-series data related to Wikipedia&amp;#39;s climate change articles</description></item><item><title>How to Build a Employee Management System</title><link>https://levoyage.github.io/posts/tech/employee-management-system/</link><pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/posts/tech/employee-management-system/</guid><description>A full-stack project using Springboot and React, deployed on AWS</description></item><item><title>How to Build an E-commerce Furniture Store</title><link>https://levoyage.github.io/posts/tech/e-commerce-furniture-store/</link><pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/posts/tech/e-commerce-furniture-store/</guid><description>An advanced front-end project with payment integration, deployed on Netlify</description></item><item><title>My Island 1.0</title><link>https://levoyage.github.io/posts/life/my-island-1.0/</link><pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate><guid>https://levoyage.github.io/posts/life/my-island-1.0/</guid><description>Record Month-long island construction in Animal Crossing</description></item><item><title/><link>https://levoyage.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://levoyage.github.io/archive/</guid><description>No posts so the archive is not available now.
-Please click here to return to the home page.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aria&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Aria&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 17:00:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building iTravel: A Personalized Travel Recommendation Platform</title>
+      <link>http://localhost:1313/posts/tech/building-itravel---a-personalized-travel-recommendation-platform/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/building-itravel---a-personalized-travel-recommendation-platform/</guid>
+      <description>A collaborative, full-stack travel recommendation project with AI integration, deployed on AWS</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello! I&amp;rsquo;m Aria, and this is my personal blog.😎 My Background Sept 2023 ‑ Expected May 2025 M.S. in Software Design and Development丨University of Galway Jan 2018 ‑ Nov 2022 English Teacher丨The New Oriental</description>
+    </item>
+    <item>
+      <title>Album</title>
+      <link>http://localhost:1313/album/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/album/</guid>
+      <description>Welcome to my album! Here are some of my favorite snapshots taken in my journey.🏃🧳 &lt;!DOCTYPE html&gt; Research Base of Giant Panda Breeding, Chengdu, China, Apr 2016 Pompidou Centre, Paris, France, Jan 2016 Fontainebleau Palace, Fontainebleau, France, Jan 2015 Sagrada Família, Barcelona, Spain, Oct 2015 Humble Administrator&amp;#39;s Garden, Suzhou, China, Nov 2014 Xixi National</description>
+    </item>
+    <item>
+      <title>Data visualization for the evolution of Wikipedia articles</title>
+      <link>http://localhost:1313/posts/tech/data-visualization/</link>
+      <pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/data-visualization/</guid>
+      <description>A web application designed to visualize time-series data related to Wikipedia&amp;#39;s climate change articles</description>
+    </item>
+    <item>
+      <title>How to Build a Employee Management System</title>
+      <link>http://localhost:1313/posts/tech/employee-management-system/</link>
+      <pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/employee-management-system/</guid>
+      <description>A full-stack project using Springboot and React, deployed on AWS</description>
+    </item>
+    <item>
+      <title>How to Build an E-commerce Furniture Store</title>
+      <link>http://localhost:1313/posts/tech/e-commerce-furniture-store/</link>
+      <pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tech/e-commerce-furniture-store/</guid>
+      <description>An advanced front-end project with payment integration, deployed on Netlify</description>
+    </item>
+    <item>
+      <title>My Island 1.0</title>
+      <link>http://localhost:1313/posts/life/my-island-1.0/</link>
+      <pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/life/my-island-1.0/</guid>
+      <description>Record Month-long island construction in Animal Crossing</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/</guid>
+      <description>No posts so the archive is not available now.
+Please click here to return to the home page.</description>
+    </item>
+  </channel>
+</rss>

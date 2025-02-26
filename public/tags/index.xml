@@ -1,1 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Aria's Blog</title><link>https://levoyage.github.io/tags/</link><description>Recent content in Tags on Aria's Blog</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 17:00:09 +0100</lastBuildDate><atom:link href="https://levoyage.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS</title><link>https://levoyage.github.io/tags/aws/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/aws/</guid><description/></item><item><title>Kimi API</title><link>https://levoyage.github.io/tags/kimi-api/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/kimi-api/</guid><description/></item><item><title>MongoDB Atlas</title><link>https://levoyage.github.io/tags/mongodb-atlas/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/mongodb-atlas/</guid><description/></item><item><title>React</title><link>https://levoyage.github.io/tags/react/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/react/</guid><description/></item><item><title>Spring Boot</title><link>https://levoyage.github.io/tags/spring-boot/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/spring-boot/</guid><description/></item><item><title>Travel Recommendations</title><link>https://levoyage.github.io/tags/travel-recommendations/</link><pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate><guid>https://levoyage.github.io/tags/travel-recommendations/</guid><description/></item><item><title>Matplotlib</title><link>https://levoyage.github.io/tags/matplotlib/</link><pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate><guid>https://levoyage.github.io/tags/matplotlib/</guid><description/></item><item><title>Python</title><link>https://levoyage.github.io/tags/python/</link><pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate><guid>https://levoyage.github.io/tags/python/</guid><description/></item><item><title>Java</title><link>https://levoyage.github.io/tags/java/</link><pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/java/</guid><description/></item><item><title>Springboot</title><link>https://levoyage.github.io/tags/springboot/</link><pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/springboot/</guid><description/></item><item><title>Auth0</title><link>https://levoyage.github.io/tags/auth0/</link><pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/auth0/</guid><description/></item><item><title>JavaScript</title><link>https://levoyage.github.io/tags/javascript/</link><pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/javascript/</guid><description/></item><item><title>Netlify</title><link>https://levoyage.github.io/tags/netlify/</link><pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/netlify/</guid><description/></item><item><title>Stripe</title><link>https://levoyage.github.io/tags/stripe/</link><pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate><guid>https://levoyage.github.io/tags/stripe/</guid><description/></item><item><title>Game</title><link>https://levoyage.github.io/tags/game/</link><pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate><guid>https://levoyage.github.io/tags/game/</guid><description/></item><item><title>Swicth</title><link>https://levoyage.github.io/tags/swicth/</link><pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate><guid>https://levoyage.github.io/tags/swicth/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Aria&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Aria&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 17:00:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kimi API</title>
+      <link>http://localhost:1313/tags/kimi-api/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/kimi-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MongoDB Atlas</title>
+      <link>http://localhost:1313/tags/mongodb-atlas/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/mongodb-atlas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>http://localhost:1313/tags/spring-boot/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel Recommendations</title>
+      <link>http://localhost:1313/tags/travel-recommendations/</link>
+      <pubDate>Fri, 08 Nov 2024 17:00:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/travel-recommendations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matplotlib</title>
+      <link>http://localhost:1313/tags/matplotlib/</link>
+      <pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate>
+      <guid>http://localhost:1313/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Thu, 25 Apr 2024 17:09:04 +0100</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Springboot</title>
+      <link>http://localhost:1313/tags/springboot/</link>
+      <pubDate>Sun, 07 Jan 2024 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/springboot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auth0</title>
+      <link>http://localhost:1313/tags/auth0/</link>
+      <pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/auth0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netlify</title>
+      <link>http://localhost:1313/tags/netlify/</link>
+      <pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/netlify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stripe</title>
+      <link>http://localhost:1313/tags/stripe/</link>
+      <pubDate>Mon, 10 Jul 2023 15:35:09 +0100</pubDate>
+      <guid>http://localhost:1313/tags/stripe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/tags/game/</link>
+      <pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate>
+      <guid>http://localhost:1313/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swicth</title>
+      <link>http://localhost:1313/tags/swicth/</link>
+      <pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate>
+      <guid>http://localhost:1313/tags/swicth/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

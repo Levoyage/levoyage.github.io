@@ -16,6 +16,13 @@ markup:
       unsafe: true  # 允许不安全的HTML渲染
 
 params:
+  assets:
+    disableHLJS: true # 如果不需要代码高亮可以关闭
+    # 添加以下配置
+    customCSS: []
+    customJS: []
+    # 强制加载 Font Awesome
+    include_fontawesome: true
   ShowWordCount: true
   ShowLastMod: true
   ShowSearchButton: true
@@ -32,19 +39,12 @@ params:
         url: posts/tech
       - name: 🏖️ Life
         url: posts/life
-    social:
-      - identifier: github
-        name: GitHub
+      - name: "🌐 GitHub"
         url: "https://github.com/Levoyage"
-        icon: <i class="fab fa-github" aria-hidden="true"></i>
-      - identifier: linkedin
-        name: LinkedIn
+      - name: "🔗 LinkedIn"
         url: "https://www.linkedin.com/in/chen-kefan/"
-        icon: <i class="fab fa-linkedin" aria-hidden="true"></i>
-      - identifier: email
-        name: Email
+      - name: "📧 Email"
         url: "mailto:ariachen1014@gmail.com"
-        icon: <i class="fas fa-envelope" aria-hidden="true"></i>
 
   fuseOpts:
     isCaseSensitive: false
