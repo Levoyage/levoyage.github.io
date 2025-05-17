@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🏖️Life on Aria&#39;s Blog</title>
-    <link>http://localhost:1313/posts/life/</link>
-    <description>Recent content in 🏖️Life on Aria&#39;s Blog</description>
+    <title>Solo Trip on Aria&#39;s Blog</title>
+    <link>http://localhost:1313/tags/solo-trip/</link>
+    <description>Recent content in Solo Trip on Aria&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 May 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/solo-trip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solo Adventure in Switzerland (Mar 2025)</title>
       <link>http://localhost:1313/posts/life/switzerland/</link>
       <pubDate>Fri, 03 May 2024 12:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/life/switzerland/</guid>
       <description>An entertaining diary of my solo adventures across scenic Switzerland.</description>
-    </item>
-    <item>
-      <title>My Island 1.0</title>
-      <link>http://localhost:1313/posts/life/my-island-1.0/</link>
-      <pubDate>Sat, 23 Jul 2022 17:46:29 +0100</pubDate>
-      <guid>http://localhost:1313/posts/life/my-island-1.0/</guid>
-      <description>Record Month-long island construction in Animal Crossing</description>
     </item>
   </channel>
 </rss>

@@ -41,6 +41,21 @@
     <loc>http://localhost:1313/album/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/life/switzerland/</loc>
+    <lastmod>2024-05-03T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/solo-trip/</loc>
+    <lastmod>2024-05-03T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/switzerland/</loc>
+    <lastmod>2024-05-03T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2024-05-03T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/life/</loc>
+    <lastmod>2024-05-03T12:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-04-25T17:09:04+01:00</lastmod>
   </url><url>
@@ -90,9 +105,6 @@
     <lastmod>2022-07-23T17:46:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/swicth/</loc>
-    <lastmod>2022-07-23T17:46:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/life/</loc>
     <lastmod>2022-07-23T17:46:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
