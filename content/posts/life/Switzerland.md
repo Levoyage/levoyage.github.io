@@ -6,7 +6,7 @@ author: ["Aria"]
 description: "An entertaining diary of my solo adventures across scenic Switzerland."
 tags: ["Travel", "Switzerland", "Solo Trip"]
 cover:
-  image: "https://imgur.com/a/C0xXMOX"
+  image: "https://i.imgur.com/P3c2dgn.jpeg"
   alt: "Map of Jungfrau Region 😎"
   caption: "Majestic Swiss Alps"
   relative: false
@@ -83,6 +83,6 @@ Grabbed a quick sushi lunch from Migros (cheap sushi in Switzerland? Yes, please
 ---
 
 ### Useful Tips
-- Use public transportation—it's reliable and scenic!
-- Always check the snow conditions if hiking during shoulder seasons.
-- Switzerland is expensive—budget accordingly.
+- If hiking in high season, be sure to check the weather at https://www.jungfrau.ch/en-gb/.
+- Use public transportation - it's reliable and scenic!
+- If you choose to use public transportation, purchasing a Swiss Travel Pass is the least time-consuming option! You may be able to save a little more money than the former by using a half-fare card, but with a travel pass, you won't need to buy a ticket in most cases. However, according to my research, if the trip is planned very early, buying saver day pass is the most cost-effective option 😎.
